@@ -21,8 +21,8 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | asda |
-|week 2 |
+|week 1 | Research doen welke proefopdracht ik wil doen| Proefopdracht uitkiezen en kijken| Beginnen aan proefopdracht| verder werken aan proef opdracht| Nog meer verder werken| 
+|week 2 | 
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
