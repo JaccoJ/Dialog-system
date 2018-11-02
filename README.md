@@ -1,37 +1,32 @@
 # Naam Proefopdracht
-*Let goed bij het maken, schrijven en bijhouden van dit document op de **[prestatie-indicatoren](https://drive.google.com/drive/folders/1y8l0Zr4E8b6gYJui_pSzQaoWr-gEr6JN?usp=sharing)**. Deze toon je aan in dit document.*
 
-Ik heb hier een destructable map gemaakt in unity 
+Ik heb hier een dialog system gemaakt in unity
 
 ## Features
-Wanneer je een specifiek onderdeel wilt uitlichten kun je dat in deze sectie benoemen.
 
-- [Awesome Algoritme](link)
-- [Specifieke Mechanic](link)
-- [Iets unieks waar je trots op bent binnen de project](link)
+Een feature is dat je een convorsatie kan hebben in unity en dat het ook door gaat
 
 ## Software Anaylse 
-Welke software heb je voor deze proefopdracht onderzocht? En waarom heb je uiteindelijk gekozen voor de gekozen Software. Benoem hier specifieke argumenten.
 
-Ik heb verschillende engines opgezocht om te gebruiken 
+Ik heb verschillende engines opgezocht om te gebruiken maar uit eindelijk heb ik voor Unity gekozen want dit leek mij het makkelijkst en vergeleken met andere Engines zag het er wat makkelijker uit om te maken
 
 ## Leerdoelen 
-Wat wil je bereiken met dit project? Formuleer dit kort, krachtig en haalbaar.
-- Het Flood-Fill algoritme snappen en toepassen
-- Het ontwikkelen van een generieke FSM.
-- etc. etc.
+
+- Leer hoe je een convorsatie kan hebben met iemand 
+- Nieuwe dingen in unity leren zoals texten veranderen 
+
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 |
+|week 1 | 
 |week 2 |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
-- [The Guide To Game Design](link)
+- [Dialog system](https://www.youtube.com/watch?v=_nRzoTzeyxU)
 - [Alleatoric Algorithms](link)
 - [Flood-Fill Wikipedia](link)
