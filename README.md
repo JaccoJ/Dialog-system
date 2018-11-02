@@ -1,4 +1,4 @@
-# Naam Proefopdracht
+# Dialog System
 
 Ik heb hier een dialog system gemaakt in unity
 
@@ -21,12 +21,11 @@ Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om 
 
 | | maandag | dinsdag | woensdag | donderdag | vrijdag |
 | --- | --- | --- | --- | --- | --- |
-|week 1 | 
+|week 1 | asda |
 |week 2 |
 
 ## Bronnen
 Welke bronnen heb je gebruikt? Zowel youtube filmpjes als artikelen
 
 - [Dialog system](https://www.youtube.com/watch?v=_nRzoTzeyxU)
-- [Alleatoric Algorithms](link)
-- [Flood-Fill Wikipedia](link)
+
